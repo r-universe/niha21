@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "conformalClassification"]
+	path = conformalClassification
+	url = https://github.com/cran/conformalClassification
+	shallow = true
+	registered = true
